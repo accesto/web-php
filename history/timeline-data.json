@@ -1,5 +1,189 @@
 [
   {
+    "priority": 1,
+    "date": "2025-07-17T00:00:00+00:00",
+    "title": "PHPverse 2025",
+    "href": "https://lp.jetbrains.com/phpverse-2025/",
+    "description": "JetBrains celebrated PHP's 30th anniversary.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2025-05-15T00:00:00+00:00",
+    "title": "FrankenPHP is supported by The PHP Foundation",
+    "href": "https://thephp.foundation/blog/2025/05/15/frankenphp/",
+    "description": "The PHP Foundation start supporting FrankenPHP and move repository to official php's Github organization to maintenance and develop to ensure its reliability, durability, and compatibility with the latest language innovations",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2025-03-27T00:00:00+00:00",
+    "title": "SymfonyLive Paris – 20th Anniversary",
+    "href": "https://live.symfony.com/2025-paris/",
+    "description": "SymfonyLive Paris (Mar 27–28, 2025) celebrated Symfony’s 20th anniversary .",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2025-03-07T00:00:00+00:00",
+    "title": "Laravel 12",
+    "href": "https://laravel-news.com/laravel-12",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2025-02-07T00:00:00+00:00",
+    "title": "PHPUnit 12",
+    "href": "https://phpunit.de/announcements/phpunit-12.html",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2024-12-09T00:00:00+00:00",
+    "title": "Laravel 11",
+    "href": "https://laravel-news.com/laravel-11",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2024-11-21T00:00:00+00:00",
+    "title": "PHP 8.4",
+    "href": "https://www.php.net/releases/8.4/en.php",
+    "description": "Property hooks, asymmetric visibility, BCMath API, DOM HTML5.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2024-02-02T00:00:00+00:00",
+    "title": "PHPUnit 11 released",
+    "href": "https://phpunit.de/announcements/phpunit-11.html",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2023-12-07T00:00:00+00:00",
+    "title": "FrankenPHP 1.0.0",
+    "href": "https://github.com/php/frankenphp/releases/tag/v1.0.0",
+    "description": "First stable release of the new PHP runtime environment written in GO",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2023-11-29T00:00:00+00:00",
+    "title": "Symfony 7",
+    "href": "https://symfony.com/blog/symfony-7-0-0-released",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2023-11-23T00:00:00+00:00",
+    "title": "PHP 8.3",
+    "href": "https://www.php.net/releases/8_3_0.php",
+    "description": "Typed class constants, json_validate(), #[Override] attribute.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2023-09-20T00:00:00+00:00",
+    "title": "CakePHP 5.0",
+    "href": "https://bakery.cakephp.org/2023/09/09/cakephp_500.html",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2023-02-03T00:00:00+00:00",
+    "title": "PHPUnit 10 released",
+    "href": "https://phpunit.de/announcements/phpunit-10.html",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2022-12-08T00:00:00+00:00",
+    "title": "PHP 8.2",
+    "href": "https://www.php.net/releases/8_2_0.php",
+    "description": "Readonly classes.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2022-12-14T00:00:00+00:00",
+    "title": "Drupal 10.0",
+    "href": "https://www.drupal.org/project/drupal/releases/10.0.0",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2022-02-08T00:00:00+00:00",
+    "title": "Laravel 9",
+    "href": "https://laravel-news.com/laravel-9-released",
+    "description": "adopts Symfony 6.0 components",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2022-01-25T00:00:00+00:00",
+    "title": "WordPress 5.9",
+    "href": "https://wordpress.org/news/2022/01/wordpress-5-9/",
+    "description": "introduces Full Site Editing and Block Themes",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2021-11-29T00:00:00+00:00",
+    "title": "Symfony 6",
+    "href": "https://symfony.com/blog/symfony-6-0-0-released",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2021-11-25T00:00:00+00:00",
+    "title": "PHP 8.1",
+    "href": "https://www.php.net/releases/8_1_0.php",
+    "description": "Enums, Fibers, readonly properties, never return type.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2021-11-22T00:00:00+00:00",
+    "title": "The PHP Foundation",
+    "href": "https://blog.jetbrains.com/phpstorm/2021/11/the-php-foundation/",
+    "description": "PHP Foundation formed to fund PHP core development.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2021-11-22T00:00:00+00:00",
+    "title": "Nikita Popov, a core PHP contributor, leaves JetBrains",
+    "href": "https://news-web.php.net/php.internals/116475",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2020-11-26T00:00:00+00:00",
+    "title": "PHP 8.0",
+    "href": "https://www.php.net/releases/8_0_0.php",
+    "description": "Union types, named arguments, attributes, constructor property promotion, nullsafe operator and JIT.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2020-08-08T00:00:00+00:00",
+    "title": "Laravel 8",
+    "href": "https://laravel-news.com/laravel8",
+    "description": "",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2020-05-04T00:00:00+00:00",
     "title": "Attributes accepted for PHP 8",
